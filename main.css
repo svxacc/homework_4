@@ -1,0 +1,26 @@
+body {
+    background-color: #000;
+}
+h1 {
+    color: #EB2A2A;
+}
+h2 {
+    color: #ED9B20;
+}
+h3 {
+    color: #E7C61B;
+}
+h4 {
+    color: #35C91C;
+}
+h5 {
+    color: #13B5CB;
+}
+h6 {
+    color: #B53CDF;
+}
+.text_1, .text_2, .text_3 {
+    color: #FFF;
+
+
+}
